@@ -1,2 +1,176 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Informativa sulla Privacy - Facile Vita Sana</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background-color: #fafafa;
+    }
+    h1, h2 {
+      color: #0074D9;
+    }
+    a {
+      color: #0074D9;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Informativa sulla Privacy</h1>
+  <p><strong>Ultimo aggiornamento:</strong> ottobre 2025</p>
+
+  <h2>1. Titolare del trattamento</h2>
+  <p>Il titolare del trattamento dei dati è <strong>Daniel Crisovan</strong>, sviluppatore dell’app <strong>Facile Vita Sana</strong>.</p>
+  <p>Per qualsiasi richiesta relativa ai dati personali puoi contattarci via email a: 
+  <a href="mailto:daniel.cogozzo@gmail.com">daniel.cogozzo@gmail.com</a></p>
+
+  <h2>2. Dati raccolti</h2>
+  <p>L’app <strong>Facile Vita Sana</strong> non raccoglie dati personali sensibili degli utenti. 
+  Tuttavia, possono essere raccolti dati tecnici anonimi e generali come:</p>
+  <ul>
+    <li>informazioni sul dispositivo (modello, sistema operativo, versione dell’app, lingua);</li>
+    <li>dati di utilizzo anonimi (errori, tempi di utilizzo, funzioni utilizzate);</li>
+    <li>eventuali dati forniti volontariamente tramite email di contatto.</li>
+  </ul>
+
+  <h2>3. Finalità del trattamento</h2>
+  <p>I dati vengono trattati esclusivamente per:</p>
+  <ul>
+    <li>migliorare la stabilità e le prestazioni dell’app;</li>
+    <li>fornire assistenza tecnica in caso di problemi segnalati dall’utente;</li>
+    <li>analisi interne di utilizzo, in forma anonima, per ottimizzare le funzionalità.</li>
+  </ul>
+
+  <h2>4. Base giuridica</h2>
+  <p>Il trattamento dei dati si basa sull’interesse legittimo dello sviluppatore a migliorare l’app e sull’esplicito consenso dell’utente in caso di invio di dati volontari.</p>
+
+  <h2>5. Conservazione dei dati</h2>
+  <p>I dati tecnici e anonimi vengono conservati solo per il tempo strettamente necessario al miglioramento dell’app.  
+  I messaggi inviati via email sono conservati solo per la gestione delle richieste e vengono eliminati una volta risolte.</p>
+
+  <h2>6. Condivisione dei dati</h2>
+  <p>I dati raccolti non vengono ceduti, venduti o comunicati a terze parti, salvo nei casi in cui ciò sia richiesto dalla legge.</p>
+
+  <h2>7. Diritti dell’utente</h2>
+  <p>Ai sensi del Regolamento (UE) 2016/679 (GDPR), l’utente ha diritto di:</p>
+  <ul>
+    <li>ottenere la conferma dell’esistenza di dati che lo riguardano;</li>
+    <li>chiederne l’accesso, la rettifica o la cancellazione;</li>
+    <li>opporsi al trattamento o richiederne la limitazione;</li>
+    <li>revocare il consenso in qualsiasi momento, ove applicabile.</li>
+  </ul>
+  <p>Per esercitare questi diritti, scrivere a <a href="mailto:daniel.cogozzo@gmail.com">daniel.cogozzo@gmail.com</a>.</p>
+
+  <h2>8. Sicurezza</h2>
+  <p>Il titolare adotta misure tecniche e organizzative adeguate per proteggere i dati personali da accessi non autorizzati, perdita o distruzione accidentale.</p>
+
+  <h2>9. Modifiche all’informativa</h2>
+  <p>La presente informativa può essere aggiornata periodicamente. Le modifiche saranno pubblicate su questa pagina con la data di revisione aggiornata.</p>
+
+  <footer>
+    <p>© 2025 Daniel Crisovan — Facile Vita Sana</p>
+    <p>Paese di riferimento: Italia</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Informativa sulla Privacy - Facile Vita Sana</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background-color: #fafafa;
+    }
+    h1, h2 {
+      color: #0074D9;
+    }
+    a {
+      color: #0074D9;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Informativa sulla Privacy</h1>
+  <p><strong>Ultimo aggiornamento:</strong> ottobre 2025</p>
+
+  <h2>1. Titolare del trattamento</h2>
+  <p>Il titolare del trattamento dei dati è <strong>Daniel Crisovan</strong>, sviluppatore dell’app <strong>Facile Vita Sana</strong>.</p>
+  <p>Per qualsiasi richiesta relativa ai dati personali puoi contattarci via email a: 
+  <a href="mailto:daniel.cogozzo@gmail.com">daniel.cogozzo@gmail.com</a></p>
+
+  <h2>2. Dati raccolti</h2>
+  <p>L’app <strong>Facile Vita Sana</strong> non raccoglie dati personali sensibili degli utenti. 
+  Tuttavia, possono essere raccolti dati tecnici anonimi e generali come:</p>
+  <ul>
+    <li>informazioni sul dispositivo (modello, sistema operativo, versione dell’app, lingua);</li>
+    <li>dati di utilizzo anonimi (errori, tempi di utilizzo, funzioni utilizzate);</li>
+    <li>eventuali dati forniti volontariamente tramite email di contatto.</li>
+  </ul>
+
+  <h2>3. Finalità del trattamento</h2>
+  <p>I dati vengono trattati esclusivamente per:</p>
+  <ul>
+    <li>migliorare la stabilità e le prestazioni dell’app;</li>
+    <li>fornire assistenza tecnica in caso di problemi segnalati dall’utente;</li>
+    <li>analisi interne di utilizzo, in forma anonima, per ottimizzare le funzionalità.</li>
+  </ul>
+
+  <h2>4. Base giuridica</h2>
+  <p>Il trattamento dei dati si basa sull’interesse legittimo dello sviluppatore a migliorare l’app e sull’esplicito consenso dell’utente in caso di invio di dati volontari.</p>
+
+  <h2>5. Conservazione dei dati</h2>
+  <p>I dati tecnici e anonimi vengono conservati solo per il tempo strettamente necessario al miglioramento dell’app.  
+  I messaggi inviati via email sono conservati solo per la gestione delle richieste e vengono eliminati una volta risolte.</p>
+
+  <h2>6. Condivisione dei dati</h2>
+  <p>I dati raccolti non vengono ceduti, venduti o comunicati a terze parti, salvo nei casi in cui ciò sia richiesto dalla legge.</p>
+
+  <h2>7. Diritti dell’utente</h2>
+  <p>Ai sensi del Regolamento (UE) 2016/679 (GDPR), l’utente ha diritto di:</p>
+  <ul>
+    <li>ottenere la conferma dell’esistenza di dati che lo riguardano;</li>
+    <li>chiederne l’accesso, la rettifica o la cancellazione;</li>
+    <li>opporsi al trattamento o richiederne la limitazione;</li>
+    <li>revocare il consenso in qualsiasi momento, ove applicabile.</li>
+  </ul>
+  <p>Per esercitare questi diritti, scrivere a <a href="mailto:daniel.cogozzo@gmail.com">daniel.cogozzo@gmail.com</a>.</p>
+
+  <h2>8. Sicurezza</h2>
+  <p>Il titolare adotta misure tecniche e organizzative adeguate per proteggere i dati personali da accessi non autorizzati, perdita o distruzione accidentale.</p>
+
+  <h2>9. Modifiche all’informativa</h2>
+  <p>La presente informativa può essere aggiornata periodicamente. Le modifiche saranno pubblicate su questa pagina con la data di revisione aggiornata.</p>
+
+  <footer>
+    <p>© 2025 Daniel Crisovan — Facile Vita Sana</p>
+    <p>Paese di riferimento: Italia</p>
+  </footer>
+</body>
+</html>
